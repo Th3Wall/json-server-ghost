@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "id": "ghost-whey",
+            "name": "Ghost Whey",
+            "details": "GHOST® WHEY protein combines a premium 100% whey protein blend with natural digestive enzymes and amazing, featured flavours.",
+            "price": "$34.99",
+            "image": "https://cdn.shopify.com/s/files/1/0014/5145/8619/products/WheyChocChipCookie.png?v=1634048943"
+        },
+        {
+            "id": "ghost-vegan",
+            "name": "Ghost Vegan",
+            "details": "GHOST® Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
+            "price": "$36.99",
+            "image": "https://cdn.shopify.com/s/files/1/0014/5145/8619/products/VeganPancake.png?v=1632324028"
+        },
+        {
+            "id": "ghost-hydration",
+            "name": "Ghost Hydration",
+            "details": "Formulated for sport, but made for life--GHOST® HYDRATION can truly be used anytime to elevate your water or replace sugary sports drinks (zero sugar here fam!) Grab a bottle of water (or fill up your favorite GHOST® shaker), toss in a scoop of GHOST® HYDRATION and enjoy some seriously kickass tasting, electrolyte enhanced H2O while you hit the gym, the field, the ice or even the office on Monday…perhaps after Sunday brunch went a little longer than expected (we've been there).",
+            "price": "$29.99",
+            "image": "https://cdn.shopify.com/s/files/1/0014/5145/8619/products/LemonCrush.png?v=1646085146"
+        },
+        {
+            "id": "ghost-legend",
+            "name": "Ghost Legend",
+            "details": "GHOST LEGEND® pre workout combines a stand out energy and focus formula with premium pump ingredients to get you feeling like a legend whenever you need it most.",
+            "price": "$36.99",
+            "image": "https://cdn.shopify.com/s/files/1/0014/5145/8619/products/Peach.png?v=1633465325"
+        },
+        {
+            "id": "ghost-burn-black",
+            "name": "Ghost Burn Black",
+            "details": "Full 3G L-Carnitine (1.5G L-Carnitine Tartrate + 1.5G Acetyl-L-Carnitine HCl), 1.5G Garcinia Cambogia, KSM-66® Ashwagandha, GBB (we're turning up the heat!), Grains of Paradise and 300mg of Natural Caffeine... GHOST® BURN BLACK is LOADED!",
+            "price": "$44.99",
+            "image": "https://cdn.shopify.com/s/files/1/0014/5145/8619/products/BurnBlackCherry.png?v=1642611795"
+        }
+    ]
+}
