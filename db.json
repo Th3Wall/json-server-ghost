@@ -1,39 +1,44 @@
 {
     "products": [
         {
+            "type": "Protein",
             "id": "ghost-whey",
-            "name": "Ghost Whey",
+            "name": "Ghost® whey",
             "details": "GHOST® WHEY protein combines a premium 100% whey protein blend with natural digestive enzymes and amazing, featured flavours.",
             "price": "$34.99",
             "image": "https://cdn.shopify.com/s/files/1/0014/5145/8619/products/WheyChocChipCookie.png?v=1634048943"
         },
         {
+            "type": "Protein",
             "id": "ghost-vegan",
-            "name": "Ghost Vegan",
+            "name": "Ghost® Vegan",
             "details": "GHOST® Vegan Protein combines a premium, fully disclosed vegan protein blend with industry-leading flavors...what more could you ask for?",
             "price": "$36.99",
             "image": "https://cdn.shopify.com/s/files/1/0014/5145/8619/products/VeganPancake.png?v=1632324028"
         },
         {
-            "id": "ghost-hydration",
-            "name": "Ghost Hydration",
-            "details": "Formulated for sport, but made for life--GHOST® HYDRATION can truly be used anytime to elevate your water or replace sugary sports drinks (zero sugar here fam!) Grab a bottle of water (or fill up your favorite GHOST® shaker), toss in a scoop of GHOST® HYDRATION and enjoy some seriously kickass tasting, electrolyte enhanced H2O while you hit the gym, the field, the ice or even the office on Monday…perhaps after Sunday brunch went a little longer than expected (we've been there).",
-            "price": "$29.99",
-            "image": "https://cdn.shopify.com/s/files/1/0014/5145/8619/products/LemonCrush.png?v=1646085146"
-        },
-        {
-            "id": "ghost-legend",
-            "name": "Ghost Legend",
-            "details": "GHOST LEGEND® pre workout combines a stand out energy and focus formula with premium pump ingredients to get you feeling like a legend whenever you need it most.",
-            "price": "$36.99",
-            "image": "https://cdn.shopify.com/s/files/1/0014/5145/8619/products/Peach.png?v=1633465325"
-        },
-        {
-            "id": "ghost-burn-black",
-            "name": "Ghost Burn Black",
-            "details": "Full 3G L-Carnitine (1.5G L-Carnitine Tartrate + 1.5G Acetyl-L-Carnitine HCl), 1.5G Garcinia Cambogia, KSM-66® Ashwagandha, GBB (we're turning up the heat!), Grains of Paradise and 300mg of Natural Caffeine... GHOST® BURN BLACK is LOADED!",
+            "type": "Protein",
+            "id": "ghost-whey-x-oreo",
+            "name": "Ghost Whey X Oreo",
+            "details": "5 years, 10 months and 28 days in the making has all led up to this... GHOST® WHEY x OREO® is finally here. With real OREO® cookie pieces and 25G of protein per serving, it doesn't get better than this. Scoop. Shake. Sip. Repeat.",
             "price": "$44.99",
-            "image": "https://cdn.shopify.com/s/files/1/0014/5145/8619/products/BurnBlackCherry.png?v=1642611795"
+            "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/WheyOREO.png?v=1625590063"
+        },
+        {
+            "type": "Protein",
+            "id": "ghost-whey-x-chips-ahoy",
+            "name": "Ghost® Whey X Chips Ahoy",
+            "details": "We've said it before and we will say it again, nothing beats the real thing. With years of R&D (we ate a ton of cookies) and REAL CHIPS AHOY!® cookie pieces in every scoop, this flavor is second to none.",
+            "price": "$44.99",
+            "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/WheyCA.png?v=1596573521"
+        },
+        {
+            "type": "Protein",
+            "id": "ghost-whey-x-nutter-butter",
+            "name": "Ghost® Whey X Nutter Butter",
+            "details": "Let's be real, there's only one Peanut Butter Cookie...we've teamed up with the legends at NUTTER BUTTER® to deliver a truly authentic experience in every scoop.",
+            "price": "$44.99",
+            "image": "https://cdn.shopify.com/s/files/1/2060/6331/products/WheyNB.png?v=1596573566"
         }
     ]
 }
